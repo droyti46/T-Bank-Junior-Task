@@ -10,3 +10,7 @@
 ![](img/emotions-pipeline.png)
 <br>
 [training.ipynb](notebooks/training.ipynb) — выполнненая 3 часть задачи (файн-тюнинг открытой языковой модели на предоставленных данных)
+<br>
+Данные представлены в виде пар переписок Вопрос-Ответ на русском языке
+
+<div align="center"><img src="img/chat.png" width="600px" style="border-radius: 20px;"></div>
