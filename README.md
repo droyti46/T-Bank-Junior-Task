@@ -9,6 +9,8 @@
 <br><br>
 ![](img/emotions-pipeline.png)
 <br><br>
+[data-analysis.ipynb](notebooks/data-analysis.ipynb) — анализ предоставленных данных
+<br><br>
 [training.ipynb](notebooks/training.ipynb) — выполнненая 3 часть задачи (файн-тюнинг открытой языковой модели на предоставленных данных)
 <br><br>
 Данные представлены в виде пар переписок Вопрос-Ответ на русском языке
