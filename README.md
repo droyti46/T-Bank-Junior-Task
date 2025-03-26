@@ -7,11 +7,11 @@
 [task-description.md](task-description.md) — описание поставленной задачи \
 [task.md](task.md) — выполненные 1 и 2 части задачи. В нем предложены фичи для ассистента Джуниора, например, ведение эмоционального дневника
 
-<br><br>
+<br>
 
 ![](img/emotions-pipeline.png)
 
-<br><br>
+<br>
 
 [data_analysis.ipynb](notebooks/data_analysis.ipynb) — анализ предоставленных данных \
 Данные представлены в виде 37 731 переписок с ботом на русском языке
