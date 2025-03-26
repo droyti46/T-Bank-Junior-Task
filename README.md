@@ -1,16 +1,18 @@
 <div align="center"><img src="img/t-bank-logo.png" width="600px" style="border-radius: 20px;"></div>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.8%2B-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/numpy-2.0.2-orange.svg" alt="numpy">
-  <img src="https://img.shields.io/badge/torch-2.6.0%2Bcu124-orange.svg" alt="torch">
-  <img src="https://img.shields.io/badge/matplotlib-3.10.0-blue.svg" alt="matplotlib">
-  <img src="https://img.shields.io/badge/seaborn-0.13.2-blue.svg" alt="seaborn">
-  <img src="https://img.shields.io/badge/pandas-2.2.2-blue.svg" alt="pandas">
-  <img src="https://img.shields.io/badge/sentence_transformers-3.4.1-blue.svg" alt="sentence_transformers">
-  <img src="https://img.shields.io/badge/transformers-4.49.0-blue.svg" alt="transformers">
-  <img src="https://img.shields.io/badge/datasets-3.4.1-blue.svg" alt="datasets">
-  <img src="https://img.shields.io/badge/sklearn-1.6.1-blue.svg" alt="sklearn">
-  <img src="https://img.shields.io/badge/tqdm-4.67.1-blue.svg" alt="tqdm">
+  <img src="https://img.shields.io/badge/numpy-2.0.2-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy">
+  <img src="https://img.shields.io/badge/pytorch-2.6.0+cu124-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch">
+  <img src="https://img.shields.io/badge/matplotlib-3.10.0-11557C?style=for-the-badge&logo=python&logoColor=white" alt="matplotlib">
+  <img src="https://img.shields.io/badge/seaborn-0.13.2-5B8CBF?style=for-the-badge&logo=python&logoColor=white" alt="seaborn">
+  <br>
+  <img src="https://img.shields.io/badge/pandas-2.2.2-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/sentence_transformers-3.4.1-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="sentence_transformers">
+  <img src="https://img.shields.io/badge/transformers-4.49.0-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" alt="transformers">
+  <br>
+  <img src="https://img.shields.io/badge/datasets-3.4.1-FFA500?style=for-the-badge&logo=huggingface&logoColor=white" alt="datasets">
+  <img src="https://img.shields.io/badge/scikit_learn-1.6.1-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/tqdm-4.67.1-FFC107?style=for-the-badge&logo=python&logoColor=black" alt="tqdm">
 </p>
 
 
