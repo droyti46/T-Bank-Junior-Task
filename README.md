@@ -48,6 +48,7 @@
 <br>
 
 <div align="center"><img src="img/mai-logo.png" width="400px"></div>
+<div align="center"><img src="img/mai-loss.png" width="400px"></div>
 
 <br>
 
