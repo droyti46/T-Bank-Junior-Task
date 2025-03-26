@@ -1,0 +1,10 @@
+numpy==2.0.2
+torch==2.6.0+cu124
+matplotlib==3.10.0
+seaborn==0.13.2
+pandas==2.2.2
+sentence_transformers==3.4.1
+transformers==4.49.0
+datasets==3.4.1
+sklearn==1.6.1
+tqdm==4.67.1
